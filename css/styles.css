@@ -190,7 +190,7 @@ body{
 	top: 15px;
 	left: -22px;
 	width: 3px;
-	height:90px;
+	height:112px;
 	background: #afec8f;
 }
 .curriculum__right .content__education > ul > li:last-child:after{
@@ -199,7 +199,7 @@ body{
 	top: 15px;
 	left: -22px;
 	width: 3px;
-	height:130px;
+	height:180px;
 	background: #afec8f;
 }
 
@@ -234,4 +234,12 @@ body{
 
 .curriculum__right .content__hobby ul li:last-child:before{
 	display: none;
+}
+
+p {
+  margin-bottom: 0 
+}
+p + p {
+  text-indent: 1.5em;
+  margin-top: 10px 
 }
